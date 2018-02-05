@@ -33,7 +33,7 @@ function draw() {
         fill(255);
         textSize(32);
         textAlign(CENTER);
-        text('Tron Light cycle 2v2', canvasWidth / 2, canvasHeight / 3);
+        text('Tron Light cycle 1v1', canvasWidth / 2, canvasHeight / 3);
         text('Press SPACE to start', canvasWidth / 2, canvasHeight / 2);
     }
 }
